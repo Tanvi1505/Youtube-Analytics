@@ -1,0 +1,14 @@
+Process of accessing API Keys:
+Google Developer Account:
+If you don't already have one, sign up for a Google Developer Account at the Google Developers Console (https://console.developers.google.com/).
+
+Create a New Project:
+Once logged in to the Google Developers Console, create a new project by clicking on the project dropdown menu at the top of the page and selecting "New Project." Enter a name for your project and click "Create."
+Enable the YouTube Data API:
+In the Google Developers Console, navigate to the "APIs & Services" > "Library" section.
+Search for "YouTube Data API" in the library and click on it.
+Click the "Enable" button to enable the API for your project.
+
+Create API Key:
+After enabling the YouTube Data API, navigate to the "APIs & Services" > "Credentials" section.
+Click on the "Create credentials" dropdown and select "API key."
